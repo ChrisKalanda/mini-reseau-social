@@ -50,7 +50,7 @@ The application follows the **MVC pattern** with a single front controller, manu
 <img src="screenshots/dashboard.png" width="700">
 
 ### 👤 Profile
-<img src="screenshots/profile.png" width="700">
+<img src="screenshots/profile-page.png" width="700">
 
 ### 🖼️ Post
 <img src="screenshots/post-page.png" width="700">
