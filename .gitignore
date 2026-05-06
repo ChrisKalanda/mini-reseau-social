@@ -1,0 +1,14 @@
+# Uploads (ne pas versionner les images)
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Config locale (à dupliquer depuis config.php)
+config/database.php
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
