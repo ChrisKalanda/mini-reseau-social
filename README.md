@@ -16,16 +16,17 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [Project Structure](#project-structure)
-5. [Getting Started](#getting-started)
-6. [Configuration](#configuration)
-7. [Database Schema](#database-schema)
-8. [Language Switching](#language-switching)
-9. [Test Accounts](#test-accounts)
-10. [Security](#security)
-11. [License](#license)
+2. [Screenshots](#screenshots)
+3. [Features](#features)
+4. [Tech Stack](#tech-stack)
+5. [Project Structure](#project-structure)
+6. [Getting Started](#getting-started)
+7. [Configuration](#configuration)
+8. [Database Schema](#database-schema)
+9. [Language Switching](#language-switching)
+10. [Test Accounts](#test-accounts)
+11. [Security](#security)
+12. [License](#license)
 
 ---
 
@@ -34,6 +35,31 @@
 MiniSocial is a PHP-based mini social network developed as a final project for **E-Commerce 2**. Users can register, share photos, comment on posts, edit their profile and switch the UI between French and English — all within a clean, Instagram-inspired interface.
 
 The application follows the **MVC pattern** with a single front controller, manual routing, and zero external PHP dependencies.
+
+---
+
+## Screenshots
+
+### 🔐 Login
+<img src="screenshots/login-page.png" width="700">
+
+### 📋 Register
+<img src="screenshots/register-page.png" width="700">
+
+### 🏠 Dashboard
+<img src="screenshots/dashboard.png" width="700">
+
+### 👤 Profile
+<img src="screenshots/profile.png" width="700">
+
+### 🖼️ Post
+<img src="screenshots/post-page.png" width="700">
+
+### ✏️ Edit Profile
+<img src="screenshots/edit-profile.png" width="700">
+
+### 💬 Comments
+<img src="screenshots/comment-post.png" width="700">
 
 ---
 
