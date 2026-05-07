@@ -307,7 +307,15 @@ Adding a new language requires only two steps:
 
 ---
 
+## 🌐 Live Demo
+
+[View the live project](https://minireseau.ct.ws/mini-reseau-social/public)
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
 Built for educational purposes — **E-Commerce 2**, 2025.
+
+
